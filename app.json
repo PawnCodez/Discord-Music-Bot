@@ -24,15 +24,15 @@
       "required": "true"
     },
     "Token": {
-      "description": "OTQxNTMzNTE0MDE5NTIwNTYz.Guigim.rVccYSWF6LNjhNyfVi0G8g32nmwPrBEqXklGSE",
+      "description": "###############################################",
       "required": "true"
     },
     "Discord_ClientID": {
-      "description": "941533514019520563",
+      "description": "###############################################",
       "required": "true"
     },
     "Discord_ClientSecret": {
-      "description": "nQFzWcytm5hYrWE07AQfTwpcI-YSsbgz",
+      "description": "###############################################",
       "required": "true"
     },
     "Website": {
@@ -40,11 +40,11 @@
       "value": "http://localhost"
     },
     "Spotify_ClientID": {
-      "description": "bbf8d69adb964b128df793d2d9d233fe",
+      "description": "###############################################",
       "required": "true"
     },
     "Spotify_ClientSecret": {
-      "description": "6ad20ba86bfc45cf897d68ebe118b236",
+      "description": "###############################################",
       "required": "true"
     }
   }
